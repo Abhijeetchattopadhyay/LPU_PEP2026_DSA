@@ -8,36 +8,24 @@
  */
 class Solution {
 public:
-    int findlength(ListNode* head){
-        int length=0;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            length++;
-            temp=temp->next;
-        }
-        return length;
-    }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-         int lenA= findlength(headA);
-         int lenB =findlength(headB);
-         ListNode* tempA=headA;
-         ListNode* tempB=headB;
-         int diffInlength=abs(lenA-lenB);
-         if(lenB>lenA){
-            while(diffInlength--){
-                tempB=tempB->next;
-                 
+        ListNode*pA=headA;
+        ListNode*pB=headB;
+        while(pA!=pB){
+            if(pA==NULL){
+              pA=headB;
+            } else{
+               pA=pA->next;
             }
-         } else{
-            while(diffInlength--){
-                tempA=tempA->next;
+            if(pB==NULL){
+                pB=headA;
             }
+            else{
+                pB=pB->next;
+            }
+        }
+        return pA;
+        
 
-         }
-         while(tempA!=tempB){
-            tempA=tempA->next;
-            tempB=tempB->next;
-         }
-         return tempA;
     }
 };
