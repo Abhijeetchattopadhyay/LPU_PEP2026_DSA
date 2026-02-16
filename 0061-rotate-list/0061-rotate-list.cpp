@@ -11,32 +11,31 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        // calculating the size of the linked list
         if(head==NULL || head->next==NULL){
-            return head;
+            return head;    
         }
-        int count=0;
-        ListNode*curr=head;
-        while(curr!=NULL){
+        int count =0;
+        ListNode* temp = head;
+        while(temp != NULL){
             count++;
-            curr=curr->next;
+            temp = temp->next;
         }
         k=k%count;
         if(k==0) return head;
-        count=count-k;
-        ListNode*temp=head;
-        ListNode*prev=NULL;
+        count = count - k;
+
+        ListNode* curr = head;
+        ListNode* prev = NULL;
         while(count--){
-            prev=temp;
-            temp=temp->next;
+            prev = curr;
+            curr = curr->next;
         }
-        prev->next=NULL;
-        ListNode*tail=temp;
-        while(tail->next!=NULL){
-            tail=tail->next;
+        prev ->next = NULL;
+        ListNode* tail = curr;
+        while(tail->next != NULL){
+            tail = tail->next;
         }
-        tail->next=head;
-        
-        return temp;
+        tail->next = head;
+        return curr;
     }
 };
