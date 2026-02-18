@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0938-range-sum-of-bst) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
