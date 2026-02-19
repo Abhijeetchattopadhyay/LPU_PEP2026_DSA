@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
