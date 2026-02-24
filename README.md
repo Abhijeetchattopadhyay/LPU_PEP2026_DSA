@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0901-online-stock-span) |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
