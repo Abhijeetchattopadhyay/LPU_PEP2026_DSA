@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
