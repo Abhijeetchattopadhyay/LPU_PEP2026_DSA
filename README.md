@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
