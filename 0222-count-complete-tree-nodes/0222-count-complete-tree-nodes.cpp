@@ -15,11 +15,8 @@ public:
         if(root==NULL){
             return 0;
         }
-        
-            int x=countNodes (root->left);
-            int y=countNodes(root->right);
-            return x+y+1;
-        
-
+        int x=countNodes(root->left);
+        int y=countNodes(root->right);
+        return x+y+1;
     }
 };
