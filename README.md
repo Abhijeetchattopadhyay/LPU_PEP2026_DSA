@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0938-range-sum-of-bst) |
 ## Bit Manipulation
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0938-range-sum-of-bst) |
 ## Math
 |  |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
