@@ -19,15 +19,14 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            int levelsize=q.size();
             vector<int>levelelements;
+            int levelsize=q.size();
             for(int i=0;i<levelsize;i++){
-                TreeNode*front = q.front();
+                TreeNode*frontnode=q.front();
                 q.pop();
-    
-            levelelements.push_back(front->val);
-            if(front->left!=NULL) q.push(front->left);
-            if(front->right!=NULL) q.push(front->right);
+                levelelements.push_back(frontnode->val);
+               if(frontnode->left) q.push(frontnode->left);
+               if(frontnode->right) q.push(frontnode->right);
             }
         result.push_back(levelelements);
         }
