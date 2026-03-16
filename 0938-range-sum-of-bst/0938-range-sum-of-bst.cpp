@@ -17,10 +17,10 @@ public:
         }
         int sum=0;
         if(root->val>=low && root->val<=high){
-              sum+=root->val;
+            sum+=root->val;
         }
-        int x=rangeSumBST(root->left, low , high);
-        int y=rangeSumBST(root->right,low,high);
-        return sum+x+y;
+        sum+=rangeSumBST(root->left,low,high);
+        sum+=rangeSumBST(root->right,low,high);
+        return sum;
     }
 };
