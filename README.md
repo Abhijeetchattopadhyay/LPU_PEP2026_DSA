@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
 ## Binary Search Tree
 |  |
