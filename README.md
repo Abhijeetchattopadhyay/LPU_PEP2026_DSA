@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -352,5 +355,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
