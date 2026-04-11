@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
