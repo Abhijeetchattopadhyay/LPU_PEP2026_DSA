@@ -3,26 +3,27 @@ public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         long long sum=0;
         long long maxsum=0;
-        int n=nums.size();
-        unordered_map<int,int>freq;
+
+        unordered_map<int,int>mp;
         for(int i=0;i<k;i++){
+            mp[nums[i]]++;
             sum+=nums[i];
-            freq[nums[i]]++;
         }
-        if(freq.size()==k){
+        if(mp.size()==k){
             maxsum=sum;
         }
-        for(int i=k;i<n;i++){
-             freq[nums[i-k]]--;
-             if(freq[nums[i-k]]==0){
-                freq.erase(nums[i-k]);
-             }
-             freq[nums[i]]++;
-             sum-=nums[i-k];
-             sum+=nums[i];
-        if(freq.size()==k){
-            maxsum= max(maxsum,sum);
-        }
+        for(int i=k;i<nums.size();i++){
+            mp[nums[i-k]]--;
+            if(mp[nums[i-k]]==0){
+                mp.erase(nums[i-k]);
+            }
+            mp[nums[i]]++;
+            sum+=nums[i];
+            sum-=nums[i-k];
+            if(mp.size()==k){
+                maxsum=max(sum,maxsum);
+            }
+
         }
         return maxsum;
     }
