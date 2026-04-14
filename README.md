@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
