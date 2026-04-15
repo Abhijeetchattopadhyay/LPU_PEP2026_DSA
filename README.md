@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
 |  |
 | ------- |
