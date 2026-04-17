@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
