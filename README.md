@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
