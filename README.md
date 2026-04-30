@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0704-binary-search) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
