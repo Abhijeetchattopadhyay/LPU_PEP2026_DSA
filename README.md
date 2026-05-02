@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0901-online-stock-span) |
