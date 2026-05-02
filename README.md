@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
