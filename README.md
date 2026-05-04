@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
