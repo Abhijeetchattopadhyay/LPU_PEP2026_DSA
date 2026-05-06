@@ -7,30 +7,26 @@ public:
     }
     
     void push(int x) {
-        //enque in q2
-        q2.push(x);
-        // take all elements from q1 , pop them and push in q2
-        while(!q1.empty()){
-            q2.push(q1.front());
-            q1.pop();
+        q1.push(x);
+        while(!q2.empty()){
+            q1.push(q2.front());
+            q2.pop();
         }
-        // swap q1 and q2
         swap(q1,q2);
-
     }
     
     int pop() {
-        int topval=q1.front();
-        q1.pop();
-        return topval;
+        int val=q2.front();
+        q2.pop();
+        return val;    
     }
     
     int top() {
-        return q1.front();   
+        return q2.front();
     }
     
     bool empty() {
-        return q1.empty();      
+        return q2.empty();
     }
 };
 
