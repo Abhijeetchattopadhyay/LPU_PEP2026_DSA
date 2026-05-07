@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
