@@ -17,23 +17,22 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode*curr=slow;
-        ListNode*prev=NULL;
+        ListNode*mid=slow;
         ListNode*next=NULL;
-        while(curr!=NULL){
-            next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
+        ListNode*prev=NULL;
+        while(mid!=NULL){
+            next=mid->next;
+            mid->next=prev;
+            prev=mid;
+            mid=next;
         }
         ListNode*temp=head;
-        while(prev!=NULL){
+        while(temp!=NULL && prev!=NULL){
             if(temp->val!=prev->val){
                 return false;
-            }else{
-                temp=temp->next;
-                prev=prev->next;
             }
+            temp=temp->next;
+            prev=prev->next;
         }
         return true;
     }
