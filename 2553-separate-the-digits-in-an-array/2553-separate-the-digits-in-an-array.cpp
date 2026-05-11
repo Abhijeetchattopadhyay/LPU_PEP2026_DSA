@@ -5,17 +5,16 @@ public:
         vector<int>ans;
         for(int i=0;i<n;i++){
             int n=nums[i];
-            stack<int>temp;
+            vector<int>temp;
             while(n>0){
                 int lastdigit=n%10;
-                temp.push(lastdigit);
+                temp.push_back(lastdigit);
                 n/=10;
             }
-            
-            while(!temp.empty()){
-                ans.push_back(temp.top());
-                temp.pop();
-        }
+            reverse(temp.begin(),temp.end());
+            for(int i=0;i<temp.size();i++){
+                ans.push_back(temp[i]);
+            }
         }
 
         return ans;
