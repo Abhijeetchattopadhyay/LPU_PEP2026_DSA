@@ -12,13 +12,17 @@
 class Solution {
 public:
     bool isidentical(TreeNode*p,TreeNode*q){
-        if(p==NULL || q==NULL){
-            return p==q;
+        if(p==NULL && q==NULL){
+            return true;
         }
-        bool isleftsame=isidentical(p->left,q->left);
-        bool isrightsame=isidentical(p->right,q->right);
-        return isleftsame&&isrightsame&&p->val==q->val;
-
+        if((p==NULL && q!=NULL) || (p!=NULL && q==NULL) ){
+            return false;
+        }
+        if(p->val!=q->val){
+            return false;
+        }
+        return isidentical(p->left,q->left) && isidentical(p->right,q->right);
+        
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
         return isidentical(p,q);
