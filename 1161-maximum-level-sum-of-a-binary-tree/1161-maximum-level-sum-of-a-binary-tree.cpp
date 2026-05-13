@@ -11,37 +11,32 @@
  */
 class Solution {
 public:
-    int sum(TreeNode*root){
+    int maxLevelSum(TreeNode* root) {
         if(root==NULL){
             return 0;
         }
+        int ans=0;
         queue<TreeNode*>q;
         q.push(root);
-        int currsum=INT_MIN;
         int level=1;
-        int maxlevel=1;
+        int maxsum=INT_MIN;
         while(!q.empty()){
             int size=q.size();
             int sum=0;
             for(int i=0;i<size;i++){
-                TreeNode*frontnode=q.front();
-                sum+=frontnode->val;
+                TreeNode*frontval=q.front();
                 q.pop();
-                if(frontnode->left) q.push(frontnode->left);
-                if(frontnode->right) q.push(frontnode->right);
+                sum+=frontval->val;
+                if(frontval->left) q.push(frontval->left);
+                if(frontval->right) q.push(frontval->right);
+                
             }
-            if(sum>currsum){
-                currsum=sum;
-                maxlevel=level;
+            if(sum>maxsum){
+                maxsum=sum;
+                ans=level;
             }
             level++;
-            
         }
-        return maxlevel;
-        
-    }
-    int maxLevelSum(TreeNode* root) {
-       return sum(root);
-
+        return ans;
     }
 };
