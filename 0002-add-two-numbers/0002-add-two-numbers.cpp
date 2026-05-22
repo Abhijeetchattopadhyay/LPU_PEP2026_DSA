@@ -11,35 +11,36 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode*l3=new ListNode(0);
+        ListNode*temp1=l1;
+        ListNode*temp2=l2;
+        ListNode*dummy=new ListNode(0);
+        ListNode*curr=dummy;
         int carry=0;
-        ListNode*head=l3;
-        while(l1!=NULL && l2!=NULL){
-            int value=l1->val+l2->val+carry;
-            carry=value/10;
-            l3->next=new ListNode(value%10);
-            l3=l3->next;
-            l1=l1->next;
-            l2=l2->next;
+        while(temp1!=NULL || temp2!=NULL){
+            int sum=0;
+            if(temp1!=NULL){
+                 sum+=temp1->val;
+            }
+            if(temp2!=NULL){
+                sum+=temp2->val;
+            }
+            sum+=carry;
+            ListNode*futt=new ListNode(sum%10);
+            carry=sum/10;
+        curr->next=futt;
+        curr=curr->next;
+        if(temp1!=NULL){
+            temp1=temp1->next;
         }
-        while(l1!=NULL){
-            int value=l1->val+carry;
-            carry=value/10;
-            l3->next=new ListNode(value%10);
-            l1=l1->next;
-            l3=l3->next;
+        if(temp2!=NULL){
+            temp2=temp2->next;
         }
-        while(l2!=NULL){
-            int value=l2->val+carry;
-            carry=value/10;
-            l3->next=new ListNode(value%10);
-            l3=l3->next;
-            l2=l2->next;
-    
         }
         if(carry){
-            l3->next=new ListNode(carry);
+            ListNode*futt=new ListNode(carry);
+            curr->next=futt;
+            curr=curr->next;
         }
-        return head->next;
+        return dummy->next;
     }
 };
