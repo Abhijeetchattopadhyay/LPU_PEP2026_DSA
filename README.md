@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
