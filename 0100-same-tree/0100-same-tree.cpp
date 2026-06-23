@@ -11,20 +11,14 @@
  */
 class Solution {
 public:
-    bool isidentical(TreeNode*p,TreeNode*q){
+    bool isSameTree(TreeNode* p, TreeNode* q) {
         if(p==NULL && q==NULL){
             return true;
         }
-        if((p==NULL && q!=NULL) || (p!=NULL && q==NULL) ){
+        if((p==NULL && q!=NULL) || (p!=NULL && q==NULL)){
             return false;
         }
-        if(p->val!=q->val){
-            return false;
-        }
-        return isidentical(p->left,q->left) && isidentical(p->right,q->right);
-        
-    }
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        return isidentical(p,q);
+
+        return p->val==q->val && isSameTree(p->left,q->left) && isSameTree(p->right, q->right);
     }
 };
