@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0917-reverse-only-letters) |
