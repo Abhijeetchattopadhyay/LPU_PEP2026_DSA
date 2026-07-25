@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
