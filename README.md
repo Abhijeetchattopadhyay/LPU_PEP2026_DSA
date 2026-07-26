@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
