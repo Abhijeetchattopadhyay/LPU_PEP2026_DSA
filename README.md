@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
