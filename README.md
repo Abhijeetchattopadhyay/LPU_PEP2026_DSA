@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0088-merge-sorted-array) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
