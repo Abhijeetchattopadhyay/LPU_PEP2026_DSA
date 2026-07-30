@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
@@ -599,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
