@@ -19,11 +19,11 @@ class Solution {
         ArrayList<String>result = new ArrayList<>();
         result.add(words[0]);
         for(int i=1;i<n;i++){
-            String words1="";
+            // String words1="";
             if(!anagram(words[i],words[i-1])){
                 result.add(words[i]);
             }
-            words1 = words[i];
+            // words1 = words[i];
 
 
         }
