@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
