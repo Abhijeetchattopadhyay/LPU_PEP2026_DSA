@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0853-car-fleet) |
+| [0890-find-and-replace-pattern](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
