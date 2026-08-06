@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
