@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2553-separate-the-digits-in-an-array) |
