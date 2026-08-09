@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2833-furthest-point-from-origin) |
