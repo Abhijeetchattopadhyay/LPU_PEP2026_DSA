@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
