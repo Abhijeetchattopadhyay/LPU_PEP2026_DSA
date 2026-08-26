@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0735-asteroid-collision) |
