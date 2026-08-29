@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0412-fizz-buzz) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
