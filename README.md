@@ -687,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
