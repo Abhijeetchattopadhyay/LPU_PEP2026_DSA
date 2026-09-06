@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2540-minimum-common-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1980-find-unique-binary-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1695-maximum-erasure-value) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Monotonic Queue
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1732-find-the-highest-altitude) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
 | ------- |
