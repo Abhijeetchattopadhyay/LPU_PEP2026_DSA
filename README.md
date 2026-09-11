@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2716-minimize-string-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2833-furthest-point-from-origin) |
 | [3794-reverse-string-prefix](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3794-reverse-string-prefix) |
 ## Stack
