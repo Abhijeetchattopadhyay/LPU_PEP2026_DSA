@@ -9,6 +9,19 @@
  * }
  */
 class Solution {
+    public ListNode reverselinkedlist(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head;
+        ListNode next=null;
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+
+        }
+        return prev;
+    }
     public boolean isPalindrome(ListNode head) {
         ListNode slow=head;
         ListNode fast=head;
@@ -16,24 +29,18 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode curr=slow;
-        ListNode next=null;
-        ListNode prev=null;
-        while(curr!=null){
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-        ListNode temp=head;
-        while(prev!=null){
-            if(temp.val!=prev.val){
+        ListNode middle = reverselinkedlist(slow);
+        ListNode futt=head;
+        while(middle!=null){
+            if(futt.val!=middle.val){
                 return false;
             }
-            temp=temp.next;
-            prev=prev.next;
+            middle=middle.next;
+            futt=futt.next;
         }
         return true;
+
+
 
     }
 }
