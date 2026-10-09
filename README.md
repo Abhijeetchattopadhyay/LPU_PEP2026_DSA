@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0169-majority-element) |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
