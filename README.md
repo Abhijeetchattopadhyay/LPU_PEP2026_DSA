@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2784-check-if-array-is-good) |
