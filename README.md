@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/2833-furthest-point-from-origin) |
+| [3110-score-of-a-string](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Abhijeetchattopadhyay/LPU_PEP2026_DSA/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
